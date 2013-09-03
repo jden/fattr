@@ -1,7 +1,7 @@
 var chai = require('chai')
 chai.should()
 
-describe('fartt', function () {
+describe('fattr', function () {
   var fattr = require('../')
   
   it('returns a function', function () {
