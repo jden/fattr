@@ -1,5 +1,5 @@
 {
-  "name": "fat",
+  "name": "fattr",
   "author": "AgileMD <hello@agilemd.com>",
   "contributors": ["jden <jason@denizac.org>"],
   "version": "0.1.0",
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha"
   },
-  "repository": "git@github.com:agilemd/fat.git",
+  "repository": "git@github.com:jden/fattr.git",
   "license": "MIT",
   "readmeFilename": "README.md",
   "devDependencies": {
